@@ -19,6 +19,6 @@ Proyecto de análisis exploratorio de datos utilizando un dataset simulado sobre
 3. Ejecutar las celdas en Jupyter o Google Colab
 
 ## Capturas
-(Agrega aquí imágenes del gráfico y del notebook)
+(En proceso**)
 
 ---
