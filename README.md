@@ -3,6 +3,8 @@
 ## Descripción
 Proyecto de análisis exploratorio de datos utilizando un dataset simulado sobre accidentes laborales por región y sector económico en Colombia.
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juliethMZ/analisis-accidentes-laborales/blob/main/cuadernos/analisis_accidentes.ipynb)
+
 ## Herramientas utilizadas
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook / Google Colab
